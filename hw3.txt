@@ -1,5 +1,5 @@
 5 je okay
 6 ešte lepšie
-int a = 1 + 2
+int a = 1 + 2 + 3
 7 je okay
 8 je dobre
